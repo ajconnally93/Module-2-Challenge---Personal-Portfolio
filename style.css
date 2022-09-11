@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(24, 147, 147, 0.3);
+}
+
+.heading {
+    padding: 25px;
+    margin: auto 45px;
+}
+
+.name {
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    padding: 0px 15px;
+    float: right;
+}
