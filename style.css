@@ -51,6 +51,7 @@ body {
     margin: 45px auto;
     height: 350px;
     width: 95%;
+    display: flex;
 }
 
 .works div {
@@ -82,20 +83,18 @@ body {
 
 .minorimg {
     width: 250px;
-    /* display: inline-flex;
-    flex-wrap: wrap; */
 }
 
 .imgcontainer1 {
     width: 700px;
     height: 350px;
-    display: inline;
+    margin-right: 1%;
 }
 
 .imgcontainer2 {
     width: 700px;
     height: 350px;
-    display: inline;
+    margin-left: 2%;
 }
 
 .contact {
@@ -112,4 +111,42 @@ body {
     display: inline;
     margin: auto 100px;
     padding: auto 50px;
+}
+
+@media screen and (max-width: 1700px) {
+    .contactinfo div {
+        margin: auto 10px;
+        padding: auto 5px;
+    }
+    .aboutme p {
+        position: absolute;
+        margin: 24px 200px auto 300px;
+        line-height: 1.5;
+    }
+    .minorimg {
+        width: 150px;
+    }
+    .imgcontainer1 {
+        height: 150px;
+        display: inline;
+    }
+    .imgcontainer2 {
+        height: 150px;
+        display: inline;
+    }
+    .works {
+        display: inline;
+    }
+    .navbar {
+        display: inline;
+        float: left;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .aboutme p {
+        line-height: 1;
+        font-size: 14px;
+        margin-right: auto;
+    }
 }
