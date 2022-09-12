@@ -9,6 +9,6 @@ Please keep in mind that I literally don't have previous projects to link to, as
 
 Some easy ways I could improve upon this: better use of pseudo-classes such as hover (IE when hovering over clickable links), designing for Mobile devices first then expanding out to normal-sized monitors, using dropdown forms to select specific sections, better use of flex-box, use of the CSS Grid system (I haven't yet learned this - but it seems perfect for what I was trying to accomplish), better-done media queries (would mostly be accomplished by designing with mobile devices in mind first), much better use of calling elements in CSS, cleaner, more organized CSS code in general. If I had another week to work on this project, those are the things I would improve upon. With that being said, when it comes time to present a personal portfolio project to potential employers, I may just create an entirely new one for scratch. This was ultimately great practice as a first-ever project, but there are a LOT of things I would do differently.
 
-LINK to website: 
+LINK to website: https://ajconnally93.github.io/Module-2-Challenge---Personal-Portfolio/
 
 ![screenshot of website](https://i.imgur.com/EpaayvN.png)
