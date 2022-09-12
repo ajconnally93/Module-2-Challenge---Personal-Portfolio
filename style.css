@@ -21,3 +21,59 @@ body {
     padding: 0px 15px;
     float: right;
 }
+
+.aboutme {
+    margin: 45px auto;
+    height: 300px;
+    width: 95%;
+}
+
+.aboutme img {
+    width: 270px;
+    display: block;
+    margin: 35px auto auto auto;
+    position: absolute;
+}
+
+.aboutme div {
+    display: block;
+    float: left;
+    font-size: 20px;
+}
+
+.aboutme p {
+    position: absolute;
+    margin: 24px 400px auto 400px;
+    line-height: 1.5;
+}
+
+.works {
+    margin: 45px auto;
+    height: 350px;
+    width: 95%;
+}
+
+.works div {
+    font-size: 20px;
+    width: 200px;
+}
+
+.main {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.works ul {
+    line-height: 1.5;
+    width: 200px;
+}
+
+.contact {
+    margin: 25px auto;
+    width: 95%;
+}
+
+.contact div {
+    font-size: 20px;
+    float: left;
+}
