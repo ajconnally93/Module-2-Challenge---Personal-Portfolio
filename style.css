@@ -61,11 +61,41 @@ body {
 .main {
     font-weight: bolder;
     font-size: larger;
+    width: 150px;
+    float: left;
 }
 
-.works ul {
+.projectslist {
     line-height: 1.5;
-    width: 200px;
+    width: 150px;
+}
+
+.minor {
+    width: 150px;
+    float: left;
+}
+
+.mainimg {
+    width: 450px;
+    display: inline;
+}
+
+.minorimg {
+    width: 250px;
+    /* display: inline-flex;
+    flex-wrap: wrap; */
+}
+
+.imgcontainer1 {
+    width: 700px;
+    height: 350px;
+    display: inline;
+}
+
+.imgcontainer2 {
+    width: 700px;
+    height: 350px;
+    display: inline;
 }
 
 .contact {
@@ -76,4 +106,10 @@ body {
 .contact div {
     font-size: 20px;
     float: left;
+}
+
+.contactinfo div {
+    display: inline;
+    margin: auto 100px;
+    padding: auto 50px;
 }
